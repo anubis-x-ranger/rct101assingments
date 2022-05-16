@@ -1,0 +1,28 @@
+.navbar{
+  display:flex;
+  background-color: black;
+  color:white;
+  justify-content: center;
+}
+.navbar > h2{
+  margin-left:80px;
+}
+.nav-elements{
+  display:flex;
+  align-items: center;
+  margin: auto ;
+}
+.nav-elements > ul{
+  text-decoration: none;
+  list-style: none;
+}
+.contact{
+  height: 30px;
+  width:100px;
+  margin:auto;
+  margin-right:80px;
+  color: white;
+  background-color: rgba(2, 134, 164, 1);
+  border:none;
+  border-radius: 10px;
+}
