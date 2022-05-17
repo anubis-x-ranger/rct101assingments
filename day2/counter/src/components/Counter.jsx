@@ -5,8 +5,11 @@ const Counter = () => {
   return (
     <div>
         <h1>Counter: {count}</h1>
-        <button onClick={()=>setCount(count+1)}>Increment</button>
-        <button onClick={()=>setCount(count-1)}>Decrement</button>
+        <div className='btn-grp'>
+        <button className='btn' onClick={()=>setCount(count+1)}>Increment</button> 
+        <button className='btn' onClick={()=> {if(count>0){setCount(count-1)}}}>Decrement</button> 
+        <button className='btn' onClick={()=>setCount(count*2)}>Double</button>
+        </div>
     </div>
   )
 }
