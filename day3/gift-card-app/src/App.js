@@ -1,11 +1,10 @@
 import './App.css';
-import { useState } from 'react';
 import Card from './components/Card';
-
+import cards from "./data/cards.json"
 function App() {
   return (
     <div className="App">
-      <Card  />
+      <Card cards={cards} />
     </div>
   );
 }
