@@ -3,7 +3,7 @@
      "date":"12/08/2022",
      "logo":"https://raw.githubusercontent.com/anubis-x-ranger/rct101assingments/0ea9448a995eb00846e2d280c103782a1328427f/day3/gift-card-app/src/logo.svg",
      "heading":"Amazon gift",
-     "sub-heading":"Pay",
+     "subheading":"Pay",
      "devices":"Desktop - Mobile",
      "color":"bright"   
     },
@@ -11,7 +11,7 @@
         "date":"",
         "logo":"",
         "heading":"",
-        "sub-heading":"",
+        "subheading":"",
         "devices":"",
         "color":""   
     },
@@ -19,7 +19,7 @@
         "date":"",
         "logo":"",
         "heading":"",
-        "sub-heading":"",
+        "subheading":"",
         "devices":"",
         "color":""   
     }
