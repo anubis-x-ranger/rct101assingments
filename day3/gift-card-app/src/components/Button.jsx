@@ -1,8 +1,8 @@
 import React from 'react'
-
+import styles from './button.module.css'
 const Button = () => {
   return (
-    <button className='btn-card'>Case Study</button>
+    <button className={styles.button}>Case Study</button>
   )
 }
 

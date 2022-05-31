@@ -1,26 +1,18 @@
 [
     {
      "date":"12/08/2022",
-     "logo":"https://raw.githubusercontent.com/anubis-x-ranger/rct101assingments/main/day3/gift-card-app/src/logo.jpg",
+     "logo":"https://www.iconpacks.net/icons/3/free-amazon-logo-icon-6203.png",
      "heading":"Amazon gift",
      "subheading":"Pay",
      "devices":"Desktop - Mobile",
-     "color":"bright"   
+     "color":"rgb(255,165,0)"   
     },
     {
-        "date":"",
-        "logo":"",
-        "heading":"",
-        "subheading":"",
-        "devices":"",
-        "color":""   
-    },
-    {
-        "date":"",
-        "logo":"",
-        "heading":"",
-        "subheading":"",
-        "devices":"",
-        "color":""   
+        "date":"17 Sep 2020",
+        "logo":"https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo-500x281.png",
+        "heading":"Apple Gift",
+        "subheading":"Payment",
+        "devices":"MacOS Mobile",
+        "color":"rgb(245,245,245)"   
     }
 ]
